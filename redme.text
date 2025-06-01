@@ -1,0 +1,22 @@
+-----------Welcome everyone!!!!!!!----------
+
+This is a "Login and Registration" System.
+----- This is the initial version of this project.
+----- Version No - 1.0 ( Release Date: 02-06-2025 )-----
+
+**Key Features**
+- Registration with ( Fullname, Email, Password )
+- Store registration data in Local Storage
+- Login system with email and Password
+- Checking login data with stored registration data
+- Showing Registration and Login Successful or Failure status.
+
+
+**Tools** 
+- Html
+- BootStrap
+- JavaScript
+
+
+
+###### Version 2.0 coming soon ######
